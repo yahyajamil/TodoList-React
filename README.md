@@ -1,3 +1,13 @@
+# TodoList
+Todo List App , I Used React.js, Redux, TailwindCss And LocalStorage
+
+
+Demo: [Todo List App](https://yahyajamil.github.io/TodoList-React/)
+
+Technologies: HTML, CSS, JavaScript, React.js, Redux, TailwindCSS And Local Storage
+
+Developer: Yahya Jamil
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
